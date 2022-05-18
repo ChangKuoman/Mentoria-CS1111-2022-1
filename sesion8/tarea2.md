@@ -1,5 +1,5 @@
 
-#### Consideraciones para la tarea2
+# Consideraciones para la tarea2
 
 ## 1
 ``` python
